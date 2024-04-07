@@ -1,0 +1,22 @@
+{
+  "name": "inittestf-rplaywright",
+  "version": "1.0.0",
+  "description": "Ich hab diese Repo für init vorbereitet",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zbeyir/initTestF-rPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zbeyir/initTestF-rPlaywright/issues"
+  },
+  "homepage": "https://github.com/Zbeyir/initTestF-rPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.43.0",
+    "@types/node": "^20.12.5"
+  }
+}
